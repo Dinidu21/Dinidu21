@@ -35,6 +35,7 @@
 
 ---
 <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=Dinidu21&label=Profile%20views&color=0e75b6&style=flat" alt="Dinidu21" /> </p></center>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinidu21&theme=xcode&hide_border=true" />
 
 ---
 
