@@ -19,6 +19,13 @@
     <a href="https://medium.com/@dinidusachintha" target="_blank">
       <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="48" height="48" alt="Medium" />
     </a>
+    <a href="https://www.hackerrank.com/profile/Dinidu21" target="_blank">
+    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="dinidu21" width="48" height="48" > 
+    </a>
+    </a>
+    <a href="https://leetcode.com/u/Dinidu21" target="_blank">
+    <img src ="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="dinidu21" width="48" height="48" > 
+    </a>
     <a href="https://www.youtube.com/@JavaKuppiya23" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="48" height="48" alt="YouTube" />
     </a>
@@ -76,7 +83,7 @@
 
 <h3 align="left">Other Tools</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,gitlab" alt="Skill Icons" />
 </p>
 
 <h3 align="left">Database</h3>
@@ -121,6 +128,7 @@
 <img src="https://skillicons.dev/icons?i=pycharm" width="" height="" alt="pycharm" />
 <img src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" width="35" height="48" alt="datagrip" />
 <img src="https://skillicons.dev/icons?i=rider" width="" height="" alt="rider" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=goland">
 <img src="https://skillicons.dev/icons?i=webstorm,androidstudio" width="" height="" alt="webstorm" />
 <img src="https://skillicons.dev/icons?i=eclipse" width="" height="" alt="eclipse" />
 </p>
