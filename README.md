@@ -119,6 +119,7 @@
 
 <h3 align="left">Automation Tools</h3>
 <p>
+
 <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="gradle" />
 </p> 
 
@@ -130,7 +131,7 @@
 <img src="https://skillicons.dev/icons?i=rider" width="" height="" alt="rider" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=goland">
 <img src="https://skillicons.dev/icons?i=webstorm,androidstudio" width="" height="" alt="webstorm" />
-<img src="https://skillicons.dev/icons?i=eclipse" width="" height="" alt="eclipse" />
+<img src="https://skillicons.dev/icons?i=eclipse,vim" width="" height="" alt="eclipse,vim" />
 </p>
 
 <h3 align="left">OS</h3>
@@ -141,12 +142,11 @@
 
 ---
 <h3 align="left">GitHub Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dinidu21&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinidu21&theme=radical&hide_border=true" alt="GitHub Streak Stats" /> </p> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinidu21&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dinidu21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinidu21&theme=radical&hide_border=true" alt="GitHub Streak Stats" /> </p>  -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinidu21&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" /> </p>
 
 ### Achievements 
 
 ![](https://github-profile-trophy.vercel.app/?username=Dinidu21&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
