@@ -38,7 +38,6 @@
   </p>
 </div>
 
-
 ---
 
 <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=Dinidu21&label=Profile%20views&color=0e75b6&style=flat" alt="Dinidu21" /> </p></center>
@@ -50,7 +49,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dinidu21&show_icons=true&hide_border=true" alt="GitHub Stats" /> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinidu21&layout=compact&hide_border=true" alt="Most Used Languages" /> </p>
 
-### Achievements 
+----
 
-![](https://github-profile-trophy.vercel.app/?username=Dinidu21&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+### Achievements 
+<br>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dinidu21&no-frame=false&no-bg=false&margin-w=4" alt="Trophy" /> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
