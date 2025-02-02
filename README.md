@@ -9,26 +9,34 @@
 <h3 align="center">Connect with me ❤️‍🔥✨</h3>
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/dinidu21/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/dinidu21/" class="new-tab">
       <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:your-email@example.com" class="new-tab">
       <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
     </a>
-    <a href="https://medium.com/@dinidusachintha" target="_blank" rel="noopener noreferrer">
+    <a href="https://medium.com/@dinidusachintha" class="new-tab">
       <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="48" height="48" alt="Medium" />
     </a>
-    <a href="https://www.hackerrank.com/profile/Dinidu21" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.hackerrank.com/profile/Dinidu21" class="new-tab">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="48" height="48" />
     </a>
-    <a href="https://leetcode.com/u/Dinidu21" target="_blank" rel="noopener noreferrer">
+    <a href="https://leetcode.com/u/Dinidu21" class="new-tab">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="48" height="48" />
     </a>
-    <a href="https://www.youtube.com/@JavaKuppiya23" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/@JavaKuppiya23" class="new-tab">
       <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="48" height="48" alt="YouTube" />
     </a>
   </p>
 </div>
+
+<script>
+  document.querySelectorAll('.new-tab').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+</script>
+
 
 
   <!-- About Section -->
