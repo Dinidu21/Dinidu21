@@ -19,16 +19,17 @@
       <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="48" height="48" alt="Medium" />
     </a>
     <a href="https://www.hackerrank.com/profile/Dinidu21" target="_blank">
-    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="dinidu21" width="48" height="48" > 
-    </a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="48" height="48" />
     </a>
     <a href="https://leetcode.com/u/Dinidu21" target="_blank">
-    <img src ="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="dinidu21" width="48" height="48" > 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="48" height="48" />
     </a>
     <a href="https://www.youtube.com/@JavaKuppiya23" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="48" height="48" alt="YouTube" />
     </a>
   </p>
+</div>
+
   <!-- About Section -->
   <p style="text-align: center; font-size: 16px; line-height: 1.6;">
     🌱 <strong>Currently Learning:</strong> Spring MVC, Advanced React, and Cloud Computing.<br />
