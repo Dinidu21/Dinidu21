@@ -44,10 +44,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinidu21&theme=xcode&hide_border=true" />
 
 ---
- 
 ### GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dinidu21&show_icons=true&hide_border=true" alt="GitHub Stats" /> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinidu21&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true" /> </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dinidu21&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Dinidu21&show_icons=true&hide_border=true" alt="GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinidu21&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true" /> </p>
+
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinidu21&layout=compact&hide_border=true" alt="Most Used Languages" /> </p> -->
 
 ----
