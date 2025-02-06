@@ -47,7 +47,7 @@
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dinidu21&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Dinidu21&show_icons=true&hide_border=true" alt="GitHub Stats" /> 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dinidu21&show_icons=true&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinidu21&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true" /> </p>
 
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinidu21&layout=compact&hide_border=true" alt="Most Used Languages" /> </p> -->
@@ -56,5 +56,7 @@
 
 ### Achievements 
 <br>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dinidu21&no-frame=false&no-bg=false&margin-w=4" alt="Trophy" /> </p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dinidu21&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
+</p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
