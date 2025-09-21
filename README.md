@@ -31,8 +31,6 @@
 
   <!-- About Section -->
   <p style="text-align: center; font-size: 16px; line-height: 1.6;">
-    🌱 <strong>Currently Learning:</strong> Spring MVC, Advanced React, and Cloud Computing.<br />
-    🛠️ <strong>Love Working With:</strong> Java, Spring Boot, React.js, etc.<br />
     📝 <strong>Writer:</strong> I share my thoughts and insights on Medium and LinkedIn.<br />
     🎯 <strong>Goal:</strong> Mastering scalable, high-performance systems.
   </p>
