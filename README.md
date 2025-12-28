@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&!&fontSize=50&fontAlign=50&fontAlignY=50&desc=I%27m%20Dinidu%20Sachintha&descSize=60&descAlign=50"alt="Dinidu Header" /> </p> 
 
 <h1 align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3f5efb&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub!;I+Love+Building+Awesome+Software!;Java+%7C+React+%7C+Spring+%7C+More..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=3F5EFB&center=true&vCenter=true&width=1050&lines=Site+Reliability+Engineer+Intern+@+WSO2+%7C+Manage+Services+%7C+AWS+%7C+CI%2FCD+%7C+Building+Scalable+and+Resilient+Systems+%7C+SRE" alt="Typing SVG" />
 
 📫 You can reach me at dinidusachintha3@gmail.com
 <h3 align="center">Connect with me ❤️‍🔥✨</h3>
